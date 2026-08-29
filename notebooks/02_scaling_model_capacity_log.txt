@@ -1,0 +1,56 @@
+Epoch:[1], Accuracy: 17.9%, Loss: 2.226, Time: 23.6s
+Epoch:[2], Accuracy: 35.2%, Loss: 1.863, Time: 23.3s
+Epoch:[3], Accuracy: 44.4%, Loss: 1.641, Time: 26.3s
+Epoch:[4], Accuracy: 49.5%, Loss: 1.505, Time: 28.2s
+Epoch:[5], Accuracy: 53.3%, Loss: 1.409, Time: 23.4s
+Epoch:[6], Accuracy: 55.8%, Loss: 1.340, Time: 23.3s
+Epoch:[7], Accuracy: 57.8%, Loss: 1.282, Time: 22.3s
+Epoch:[8], Accuracy: 59.4%, Loss: 1.231, Time: 24.8s
+Epoch:[9], Accuracy: 61.2%, Loss: 1.191, Time: 25.4s
+Epoch:[10], Accuracy: 62.3%, Loss: 1.159, Time: 24.0s
+Epoch:[11], Accuracy: 64.4%, Loss: 1.102, Time: 23.6s
+Epoch:[12], Accuracy: 65.4%, Loss: 1.070, Time: 24.8s
+Epoch:[13], Accuracy: 66.0%, Loss: 1.054, Time: 23.3s
+Epoch:[14], Accuracy: 66.8%, Loss: 1.029, Time: 23.7s
+Epoch:[15], Accuracy: 67.0%, Loss: 1.022, Time: 22.2s
+Epoch:[16], Accuracy: 67.5%, Loss: 1.008, Time: 22.2s
+Epoch:[17], Accuracy: 68.2%, Loss: 0.986, Time: 22.4s
+Epoch:[18], Accuracy: 68.4%, Loss: 0.975, Time: 22.2s
+Epoch:[19], Accuracy: 68.4%, Loss: 0.975, Time: 22.4s
+Epoch:[20], Accuracy: 69.4%, Loss: 0.955, Time: 22.8s
+Epoch:[21], Accuracy: 70.2%, Loss: 0.926, Time: 21.9s
+Epoch:[22], Accuracy: 71.1%, Loss: 0.911, Time: 21.9s
+Epoch:[23], Accuracy: 71.6%, Loss: 0.891, Time: 22.2s
+Epoch:[24], Accuracy: 71.4%, Loss: 0.891, Time: 22.4s
+Epoch:[25], Accuracy: 71.6%, Loss: 0.883, Time: 22.1s
+Epoch:[26], Accuracy: 72.3%, Loss: 0.864, Time: 21.9s
+Epoch:[27], Accuracy: 72.2%, Loss: 0.871, Time: 22.4s
+Epoch:[28], Accuracy: 72.2%, Loss: 0.859, Time: 22.1s
+Epoch:[29], Accuracy: 72.5%, Loss: 0.859, Time: 21.7s
+Epoch:[30], Accuracy: 72.9%, Loss: 0.846, Time: 22.1s
+Epoch:[31], Accuracy: 73.2%, Loss: 0.832, Time: 22.1s
+Epoch:[32], Accuracy: 73.9%, Loss: 0.818, Time: 21.8s
+Epoch:[33], Accuracy: 73.8%, Loss: 0.815, Time: 21.8s
+Epoch:[34], Accuracy: 74.0%, Loss: 0.810, Time: 21.8s
+Epoch:[35], Accuracy: 74.3%, Loss: 0.802, Time: 21.7s
+Epoch:[36], Accuracy: 74.5%, Loss: 0.794, Time: 21.8s
+Epoch:[37], Accuracy: 74.7%, Loss: 0.791, Time: 21.9s
+Epoch:[38], Accuracy: 74.7%, Loss: 0.794, Time: 22.1s
+Epoch:[39], Accuracy: 74.8%, Loss: 0.789, Time: 22.2s
+Epoch:[40], Accuracy: 74.9%, Loss: 0.777, Time: 21.8s
+Finished Training
+
+Accuracy per class:
+Class 0    : 86.2 %
+Class 1    : 86.8 %
+Class 2    : 84.2 %
+Class 3    : 71.8 %
+Class 4    : 89.8 %
+Class 5    : 78.6 %
+Class 6    : 78.8 %
+Class 7    : 89.8 %
+Class 8    : 80.4 %
+Class 9    : 82.8 %
+
+Overall Test Accuracy: 82.9 %
+Total Program Time: 15.45 minutes
