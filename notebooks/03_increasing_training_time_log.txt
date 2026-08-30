@@ -1,0 +1,96 @@
+Epoch:[1], Accuracy: 18.6%, Loss: 2.216, Time: 22.7s
+Epoch:[2], Accuracy: 35.2%, Loss: 1.856, Time: 22.0s
+Epoch:[3], Accuracy: 44.7%, Loss: 1.632, Time: 21.9s
+Epoch:[4], Accuracy: 49.8%, Loss: 1.499, Time: 21.9s
+Epoch:[5], Accuracy: 53.1%, Loss: 1.415, Time: 21.9s
+Epoch:[6], Accuracy: 55.8%, Loss: 1.343, Time: 21.9s
+Epoch:[7], Accuracy: 57.9%, Loss: 1.279, Time: 21.8s
+Epoch:[8], Accuracy: 59.4%, Loss: 1.232, Time: 21.7s
+Epoch:[9], Accuracy: 60.7%, Loss: 1.202, Time: 21.8s
+Epoch:[10], Accuracy: 62.2%, Loss: 1.161, Time: 21.7s
+Epoch:[11], Accuracy: 64.0%, Loss: 1.108, Time: 21.8s
+Epoch:[12], Accuracy: 65.5%, Loss: 1.076, Time: 21.7s
+Epoch:[13], Accuracy: 65.5%, Loss: 1.069, Time: 21.9s
+Epoch:[14], Accuracy: 66.2%, Loss: 1.045, Time: 21.8s
+Epoch:[15], Accuracy: 66.7%, Loss: 1.031, Time: 21.9s
+Epoch:[16], Accuracy: 67.3%, Loss: 1.010, Time: 21.9s
+Epoch:[17], Accuracy: 67.9%, Loss: 0.995, Time: 21.8s
+Epoch:[18], Accuracy: 68.3%, Loss: 0.987, Time: 21.8s
+Epoch:[19], Accuracy: 69.1%, Loss: 0.964, Time: 21.8s
+Epoch:[20], Accuracy: 69.3%, Loss: 0.957, Time: 23.5s
+Epoch:[21], Accuracy: 70.1%, Loss: 0.930, Time: 21.9s
+Epoch:[22], Accuracy: 70.6%, Loss: 0.916, Time: 21.7s
+Epoch:[23], Accuracy: 70.9%, Loss: 0.898, Time: 21.8s
+Epoch:[24], Accuracy: 71.3%, Loss: 0.892, Time: 21.6s
+Epoch:[25], Accuracy: 71.5%, Loss: 0.886, Time: 22.5s
+Epoch:[26], Accuracy: 71.6%, Loss: 0.882, Time: 21.8s
+Epoch:[27], Accuracy: 72.3%, Loss: 0.863, Time: 21.8s
+Epoch:[28], Accuracy: 72.5%, Loss: 0.858, Time: 21.8s
+Epoch:[29], Accuracy: 72.7%, Loss: 0.855, Time: 21.7s
+Epoch:[30], Accuracy: 72.7%, Loss: 0.846, Time: 21.7s
+Epoch:[31], Accuracy: 73.4%, Loss: 0.823, Time: 21.9s
+Epoch:[32], Accuracy: 73.8%, Loss: 0.815, Time: 22.1s
+Epoch:[33], Accuracy: 74.0%, Loss: 0.816, Time: 22.0s
+Epoch:[34], Accuracy: 74.4%, Loss: 0.798, Time: 21.8s
+Epoch:[35], Accuracy: 74.9%, Loss: 0.790, Time: 21.9s
+Epoch:[36], Accuracy: 74.7%, Loss: 0.792, Time: 21.9s
+Epoch:[37], Accuracy: 74.5%, Loss: 0.791, Time: 22.0s
+Epoch:[38], Accuracy: 74.7%, Loss: 0.787, Time: 21.9s
+Epoch:[39], Accuracy: 75.2%, Loss: 0.776, Time: 22.0s
+Epoch:[40], Accuracy: 75.1%, Loss: 0.779, Time: 21.8s
+Epoch:[41], Accuracy: 75.5%, Loss: 0.768, Time: 22.0s
+Epoch:[42], Accuracy: 75.7%, Loss: 0.766, Time: 22.0s
+Epoch:[43], Accuracy: 75.5%, Loss: 0.759, Time: 22.3s
+Epoch:[44], Accuracy: 75.8%, Loss: 0.753, Time: 21.9s
+Epoch:[45], Accuracy: 76.0%, Loss: 0.748, Time: 21.9s
+Epoch:[46], Accuracy: 75.6%, Loss: 0.752, Time: 21.7s
+Epoch:[47], Accuracy: 76.4%, Loss: 0.741, Time: 21.8s
+Epoch:[48], Accuracy: 76.5%, Loss: 0.736, Time: 21.8s
+Epoch:[49], Accuracy: 76.6%, Loss: 0.736, Time: 21.6s
+Epoch:[50], Accuracy: 76.8%, Loss: 0.731, Time: 21.9s
+Epoch:[51], Accuracy: 76.8%, Loss: 0.719, Time: 21.7s
+Epoch:[52], Accuracy: 77.3%, Loss: 0.714, Time: 21.9s
+Epoch:[53], Accuracy: 76.8%, Loss: 0.724, Time: 21.7s
+Epoch:[54], Accuracy: 77.0%, Loss: 0.718, Time: 21.7s
+Epoch:[55], Accuracy: 77.2%, Loss: 0.708, Time: 21.7s
+Epoch:[56], Accuracy: 77.4%, Loss: 0.709, Time: 21.9s
+Epoch:[57], Accuracy: 77.4%, Loss: 0.703, Time: 21.7s
+Epoch:[58], Accuracy: 77.4%, Loss: 0.706, Time: 21.6s
+Epoch:[59], Accuracy: 77.8%, Loss: 0.694, Time: 21.6s
+Epoch:[60], Accuracy: 77.5%, Loss: 0.706, Time: 21.9s
+Epoch:[61], Accuracy: 77.3%, Loss: 0.702, Time: 21.7s
+Epoch:[62], Accuracy: 77.7%, Loss: 0.698, Time: 21.8s
+Epoch:[63], Accuracy: 77.8%, Loss: 0.687, Time: 21.7s
+Epoch:[64], Accuracy: 77.8%, Loss: 0.692, Time: 21.7s
+Epoch:[65], Accuracy: 78.3%, Loss: 0.679, Time: 21.7s
+Epoch:[66], Accuracy: 78.5%, Loss: 0.677, Time: 21.7s
+Epoch:[67], Accuracy: 78.4%, Loss: 0.681, Time: 21.7s
+Epoch:[68], Accuracy: 78.0%, Loss: 0.695, Time: 21.9s
+Epoch:[69], Accuracy: 78.2%, Loss: 0.682, Time: 21.7s
+Epoch:[70], Accuracy: 78.2%, Loss: 0.680, Time: 21.8s
+Epoch:[71], Accuracy: 78.2%, Loss: 0.685, Time: 21.8s
+Epoch:[72], Accuracy: 78.3%, Loss: 0.674, Time: 21.9s
+Epoch:[73], Accuracy: 78.6%, Loss: 0.669, Time: 22.0s
+Epoch:[74], Accuracy: 78.6%, Loss: 0.668, Time: 21.7s
+Epoch:[75], Accuracy: 78.6%, Loss: 0.667, Time: 21.8s
+Epoch:[76], Accuracy: 78.9%, Loss: 0.667, Time: 21.9s
+Epoch:[77], Accuracy: 78.7%, Loss: 0.667, Time: 21.8s
+Epoch:[78], Accuracy: 78.9%, Loss: 0.666, Time: 21.9s
+Epoch:[79], Accuracy: 78.9%, Loss: 0.661, Time: 21.6s
+Epoch:[80], Accuracy: 78.8%, Loss: 0.662, Time: 21.9s
+Finished Training
+
+Accuracy per class:
+Class 0    : 86.0 %
+Class 1    : 89.2 %
+Class 2    : 87.4 %
+Class 3    : 78.2 %
+Class 4    : 90.2 %
+Class 5    : 83.8 %
+Class 6    : 82.8 %
+Class 7    : 92.4 %
+Class 8    : 82.2 %
+Class 9    : 85.4 %
+
+Overall Test Accuracy: 85.8 %
+Total Program Time: 29.36 minutes
