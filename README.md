@@ -66,7 +66,7 @@ pip install -r requirements.txt
 ```
 
 ### 3. Download the Dataset
-1. Download `data.zip` from [GitHub Releases].
+1. Download `data.zip` from [`GitHub Releases`](https://github.com/0710H/pytorch_digit_classification/releases/tag/v1.0.0).
 2. Extract the archive into a local `data/` directory in the project root:
 ```text
 pytorch-digit-classification/
